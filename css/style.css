@@ -1,0 +1,36 @@
+.container-fluid {
+    background: white;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+
+.row-fluid .col-md-2:hover{
+    background-color: lightblue;
+}
+.sitename {
+    color: white;
+    text-align: center;
+    text-decoration: overline;
+    font-size: 100px;
+    font-family: 'Britannic Bold';
+    padding: 7%;
+}
+.new-york {
+    text-align: center;
+    font-size: 100px;
+    align-content: center;
+    color: white;
+    padding-bottom: 5%;
+    font-family: 'Britannic Bold';
+}
+.nav-link:hover{
+    color:red;
+}
+
+body {
+    background: transparent;
+}
+.button-more{
+    align-content: center;
+}
